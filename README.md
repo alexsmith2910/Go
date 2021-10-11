@@ -23,7 +23,7 @@ To run any of my files, use the following command (after downloading [Go](https:
 go run {filename}.go
 ```
 
-You can also build the files as executables bu running the following:
+You can also build the files as executables by running the following:
 
 ```
 go build {filename}.go
